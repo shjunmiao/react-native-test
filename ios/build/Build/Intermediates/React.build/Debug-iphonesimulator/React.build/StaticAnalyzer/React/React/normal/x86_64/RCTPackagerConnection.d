@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/DevSupport/RCTPackagerConnection.m \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/Base/RCTWebSocketObserverProtocol.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/DevSupport/RCTPackagerConnectionBridgeConfig.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/DevSupport/RCTPackagerConnectionConfig.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/junmiaoshen/Desktop/Dev/react-native-learn/MyApp1/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h
